@@ -28,7 +28,7 @@ luxe-hotel-website/
 bash
 Copy
 Edit
-git clone https://github.com/your-username/luxe-hotel-website.git
+
 cd luxe-hotel-website
 2️⃣ Open the Project
 Simply open index.html in your browser.
